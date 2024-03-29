@@ -2,6 +2,8 @@
 
 一个支持在币安一键进行资金费套利的工具。
 
+API 文档：https://binance-docs.github.io/apidocs/delivery/cn/#1045de04a1
+
 ## 功能：
 
 - 1.开始套利
