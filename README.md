@@ -45,5 +45,7 @@ API 文档：https://binance-docs.github.io/apidocs/delivery/cn/#1045de04a1
 
 步骤：
 
+https://www.binance.com/zh-CN/futures/funding-history/perpetual/real-time-funding-rate
+
 1. 拉取市值排名前 50 的币种，资金费列表，按费率高低排序，取前 10
 2.
