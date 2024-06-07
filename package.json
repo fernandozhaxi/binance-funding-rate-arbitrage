@@ -1,0 +1,22 @@
+{
+  "name": "binance-funding-rate-arbitrage",
+  "version": "1.0.0",
+  "description": "一个支持在币安一键进行资金费套利的工具。",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandozhaxi/binance-funding-rate-arbitrage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandozhaxi/binance-funding-rate-arbitrage/issues"
+  },
+  "dependencies": {
+    "axios": "^1.4.0"
+  },
+  "homepage": "https://github.com/fernandozhaxi/binance-funding-rate-arbitrage#readme"
+}
